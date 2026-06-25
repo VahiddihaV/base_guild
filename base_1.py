@@ -1,2 +1,2 @@
-def sign_transaction(w3, tx, private_key):
-    return w3.eth.account.sign_transaction(tx, private_key)
+def send_raw_tx(w3, signed_tx):
+    return w3.eth.send_raw_transaction(signed_tx.raw_transaction)
