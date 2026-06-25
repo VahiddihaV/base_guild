@@ -1,1 +1,2 @@
-args = parser.parse_args()
+if args.command == "balance":
+    print("balance command triggered")
