@@ -1,2 +1,2 @@
-import os
-RPC_URL = os.getenv("RPC_URL", "https://mainnet.base.org")
+with open("requirements.txt", "w") as f:
+    f.write("web3\n")
