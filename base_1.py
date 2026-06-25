@@ -1,1 +1,2 @@
-print(f"version: {version()}")
+def list_commands():
+    return ["balance", "send", "account"]
