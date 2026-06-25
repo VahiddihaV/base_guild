@@ -1,1 +1,1 @@
-print("Base Toolkit CLI ready")
+DEBUG = True
