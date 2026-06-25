@@ -1,1 +1,2 @@
-parser.add_argument("--debug", action="store_true")
+if args.debug:
+    DEBUG_MODE = True
