@@ -1,2 +1,2 @@
-import sys
-sys.exit(0)
+def input_prompt():
+    return input(">>> ")
