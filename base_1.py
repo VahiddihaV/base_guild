@@ -1,1 +1,2 @@
-print("cli stable")
+import logging
+logging.basicConfig(level=logging.INFO)
