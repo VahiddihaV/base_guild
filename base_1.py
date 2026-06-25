@@ -1,2 +1,2 @@
-if not RPC_URL:
-    raise EnvironmentError("RPC missing")
+def is_connected(w3):
+    return w3.is_connected()
