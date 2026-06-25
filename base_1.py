@@ -1,2 +1,2 @@
-if args.command not in list_commands():
-    print("unknown command")
+def exit_gracefully():
+    print("bye")
