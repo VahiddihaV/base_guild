@@ -1,1 +1,1 @@
-tx_hash = signed.raw_transaction.hex()
+# ERC20 contract init
