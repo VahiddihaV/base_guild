@@ -1,1 +1,2 @@
-print("core validation layer ready")
+def print_help():
+    print("balance | send | account")
