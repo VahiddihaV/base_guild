@@ -1,2 +1,1 @@
-def release_ready():
-    return True
+assert release_ready()
