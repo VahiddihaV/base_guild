@@ -1,1 +1,1 @@
-print(f"Base Toolkit {get_version()}")
+README = True
