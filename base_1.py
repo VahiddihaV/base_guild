@@ -1,1 +1,1 @@
-nonce = w3.eth.get_transaction_count(account.address)
+gas_price = w3.eth.gas_price
