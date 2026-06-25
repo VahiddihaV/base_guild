@@ -1,1 +1,2 @@
-logging.info("system started")
+def clean_output(text):
+    return str(text).strip()
