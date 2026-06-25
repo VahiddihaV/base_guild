@@ -1,2 +1,2 @@
-if DEBUG_MODE:
-    print("debug enabled")
+def log_tx(tx):
+    print(f"tx: {tx}")
