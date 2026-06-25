@@ -1,2 +1,2 @@
-if args.command == "send":
-    print("send command triggered")
+if args.command == "account":
+    print("account command triggered")
