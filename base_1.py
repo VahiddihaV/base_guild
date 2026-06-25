@@ -1,2 +1,1 @@
-def print_help():
-    print("balance | send | account")
+parser.add_argument("--debug", action="store_true")
