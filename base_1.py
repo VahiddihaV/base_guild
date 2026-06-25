@@ -1,1 +1,2 @@
-DEBUG_MODE = False
+if DEBUG_MODE:
+    print("debug enabled")
