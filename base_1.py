@@ -1,2 +1,1 @@
-def shutdown():
-    print("shutdown")
+shutdown()
