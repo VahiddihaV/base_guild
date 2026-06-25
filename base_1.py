@@ -1,1 +1,2 @@
-print("system healthy")
+def health_check():
+    return True
