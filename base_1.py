@@ -1,2 +1,2 @@
-if args.debug:
-    DEBUG_MODE = True
+def cli_banner():
+    print("Base Toolkit CLI")
