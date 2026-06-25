@@ -1,2 +1,2 @@
-def format_address(addr):
-    return addr[:6] + "..." + addr[-4:]
+def estimate_fee(gas, price):
+    return gas * price
