@@ -1,1 +1,2 @@
-print("clean build")
+def shutdown():
+    print("shutdown")
