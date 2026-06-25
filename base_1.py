@@ -1,1 +1,1 @@
-print("interactive mode ready")
+print("cli stable")
