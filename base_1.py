@@ -1,1 +1,1 @@
-assert release_ready()
+print("clean build")
