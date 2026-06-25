@@ -1,1 +1,2 @@
-# ERC20 contract init
+def transfer(token, to, amount):
+    return token.functions.transfer(to, amount)
