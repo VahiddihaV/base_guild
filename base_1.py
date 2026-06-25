@@ -1,2 +1,2 @@
-if args.command == "balance":
-    print("balance command triggered")
+if args.command == "send":
+    print("send command triggered")
