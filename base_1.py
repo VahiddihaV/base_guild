@@ -1,2 +1,2 @@
-def get_balance(w3, address):
-    return w3.eth.get_balance(address)
+def format_balance(w3, balance):
+    return w3.from_wei(balance, "ether")
