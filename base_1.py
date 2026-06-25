@@ -1,2 +1,1 @@
-def health_check():
-    return True
+assert health_check()
