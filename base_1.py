@@ -1,2 +1,2 @@
-def exit_gracefully():
-    print("bye")
+import sys
+sys.exit(0)
