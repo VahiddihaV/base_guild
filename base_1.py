@@ -1,6 +1,2 @@
-def retry(func, retries=3):
-    for _ in range(retries):
-        try:
-            return func()
-        except:
-            continue
+import time
+time.sleep(1)
