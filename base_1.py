@@ -1,2 +1,2 @@
-def send_raw_tx(w3, signed_tx):
-    return w3.eth.send_raw_transaction(signed_tx.raw_transaction)
+def get_tx_receipt(w3, tx_hash):
+    return w3.eth.wait_for_transaction_receipt(tx_hash)
