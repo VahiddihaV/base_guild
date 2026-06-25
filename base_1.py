@@ -1,2 +1,1 @@
-def build_tx(w3, account):
-    return {"from": account.address}
+nonce = w3.eth.get_transaction_count(account.address)
