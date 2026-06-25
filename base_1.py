@@ -1,2 +1,2 @@
-def cli_banner():
-    print("Base Toolkit CLI")
+def version():
+    return "1.0.0"
