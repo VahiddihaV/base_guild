@@ -1,2 +1,2 @@
-def confirm_action():
-    return input("confirm? y/n")
+if confirm_action() != "y":
+    exit_gracefully()
