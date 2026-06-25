@@ -1,2 +1,2 @@
-def clean_output(text):
-    return str(text).strip()
+def safe_print(x):
+    print(clean_output(x))
