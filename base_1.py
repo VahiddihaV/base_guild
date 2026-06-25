@@ -1,5 +1,2 @@
-commands = {
-    "balance": "check balance",
-    "send": "send transaction",
-    "account": "show account"
-}
+if args.command not in commands:
+    print("invalid command")
