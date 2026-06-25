@@ -1,2 +1,5 @@
-if args.command == "account":
-    print("account command triggered")
+commands = {
+    "balance": "check balance",
+    "send": "send transaction",
+    "account": "show account"
+}
