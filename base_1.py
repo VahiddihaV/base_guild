@@ -1,2 +1,1 @@
-if args.command not in commands:
-    print("invalid command")
+print("Base Toolkit CLI ready")
