@@ -1,2 +1,1 @@
-import time
-time.sleep(1)
+DEBUG_MODE = False
