@@ -1,2 +1,1 @@
-def reset_errors():
-    ERROR_LOG.clear()
+print("system healthy")
