@@ -1,1 +1,1 @@
-# remove hardcoded keys
+print("wallet module ready")
