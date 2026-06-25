@@ -1,2 +1,2 @@
-def log_tx(tx):
-    print(f"tx: {tx}")
+def format_address(addr):
+    return addr[:6] + "..." + addr[-4:]
