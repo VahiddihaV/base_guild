@@ -1,2 +1,1 @@
-def get_version():
-    return VERSION
+print(f"Base Toolkit {get_version()}")
