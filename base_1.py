@@ -1,2 +1,1 @@
-def version():
-    return "1.0.0"
+print(f"version: {version()}")
